@@ -1,0 +1,25 @@
+{
+  "name": "parsehl7",
+  "version": "1.0.0",
+  "description": "Simple parser to parse from a message to arrays of segments and fields. Does not handle nested/related segment parsing.",
+  "main": "parsehl7.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bzimbelman/parsehl7.git"
+  },
+  "keywords": [
+    "parse",
+    "hl7",
+    "segment",
+    "fields"
+  ],
+  "author": "Brian Zimbelman",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bzimbelman/parsehl7/issues"
+  },
+  "homepage": "https://github.com/bzimbelman/parsehl7#readme"
+}
